@@ -1,8 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 ### Added by Suhel
-out
-.idea
+out/
+.idea/
 basra.iml
 
 ### Java template
